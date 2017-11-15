@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "593927979837",
+    "firebase_url": "https://sscbs-query.firebaseio.com",
+    "project_id": "sscbs-query",
+    "storage_bucket": "sscbs-query.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:593927979837:android:a6a3fc97bd946575",
+        "android_client_info": {
+          "package_name": "kronos.cbs.basu.cbsguide"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "593927979837-ebdct2hr2hb4i5h1otdju5j4m354ovi3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8ni8MXYPFqfdXWHrzwldVDD0K59H4E0Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
